@@ -1,0 +1,6 @@
+Name	Phone	Rollno
+zain	45	54210
+umer	965210	74
+ali	564321	85
+raza	465231	74
+kl;j	23856564	96
